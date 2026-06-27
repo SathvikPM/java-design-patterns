@@ -12,7 +12,7 @@ class RealBank implements Bank{
 
     @Override
     public void withdraw(int amount) {
-        System.out.println(amount +"withdrawn sucessfully");
+        System.out.println(amount +" withdrawn sucessfully");
     }
 }
 
